@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="top" alt="Stats" src="https://github-readme-stats-atalaa.vercel.app/api?username=ArnaudBuchholz&show_icons=true&hide_border=true&hide=prs,contribs&theme=shades-of-purple" />
+<img align="top" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ArnaudBuchholz&show_icons=true&hide_border=true&hide=prs,contribs" />
 
 ### ⚡ Most Used Languages
-<img align="top" alt="GitHub Top Languages" src="https://github-readme-stats-atalaa.vercel.app/api/top-langs/?username=ArnaudBuchholz&langs_count=5&layout=compact&theme=shades-of-purple" />
+<img align="top" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudBuchholz&langs_count=5&layout=compact" />
 
