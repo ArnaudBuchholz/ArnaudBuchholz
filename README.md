@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![My super power](http://arnaudbuchholz.github.io/gfx/deadpool%20common%20sense.png)
+
+
 <!--
 **ArnaudBuchholz/ArnaudBuchholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="top" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ArnaudBuchholz&show_icons=true" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnaudBuchholz&show_icons=true)
 
-### ⚡ Most Used Languages
-<img align="top" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudBuchholz&langs_count=5&layout=compact" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudBuchholz&langs_count=5&layout=compact)
 
