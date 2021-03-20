@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />][mailto]
+
+[articles]: https://arnaud-buchholz.medium.com/
+[linkedin]: www.linkedin.com/in/arnaudbuchholz
+[mailto]: mailto:arnaud.buchholz@free.fr
