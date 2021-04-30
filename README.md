@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnaudBuchholz&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnaudBuchholz&show_icons=true&bg_color=45,dfa8e4,634975&border_color=634975&text_color=ffffff&icon_color=000000&title_color=ffffff)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudBuchholz&langs_count=5&layout=compact)
 
