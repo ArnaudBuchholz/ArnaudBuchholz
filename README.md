@@ -4,4 +4,4 @@
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/arnaudbuchholz
+[linkedin]: https://www.linkedin.com/in/arnaudbuchholz
